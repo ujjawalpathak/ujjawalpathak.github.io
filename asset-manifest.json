@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.c0a5752b.css",
-    "main.js": "/static/js/main.912974ae.js",
+    "main.js": "/static/js/main.117a52dc.js",
     "static/css/64.bba8fa55.chunk.css": "/static/css/64.bba8fa55.chunk.css",
     "static/js/64.f4b21e71.chunk.js": "/static/js/64.f4b21e71.chunk.js",
     "static/css/769.b3cbb36b.chunk.css": "/static/css/769.b3cbb36b.chunk.css",
@@ -37,7 +37,7 @@
     "static/media/docker.svg": "/static/media/docker.0e98a7cc3dcc1f806d88df1ba58d2d2b.svg",
     "static/media/terraform.svg": "/static/media/terraform.81954a66211c272d297d84146c15f02c.svg",
     "main.c0a5752b.css.map": "/static/css/main.c0a5752b.css.map",
-    "main.912974ae.js.map": "/static/js/main.912974ae.js.map",
+    "main.117a52dc.js.map": "/static/js/main.117a52dc.js.map",
     "64.bba8fa55.chunk.css.map": "/static/css/64.bba8fa55.chunk.css.map",
     "64.f4b21e71.chunk.js.map": "/static/js/64.f4b21e71.chunk.js.map",
     "769.b3cbb36b.chunk.css.map": "/static/css/769.b3cbb36b.chunk.css.map",
@@ -45,6 +45,6 @@
   },
   "entrypoints": [
     "static/css/main.c0a5752b.css",
-    "static/js/main.912974ae.js"
+    "static/js/main.117a52dc.js"
   ]
 }
